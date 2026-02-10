@@ -32,4 +32,4 @@ Abra o arquivo `Card_de_Perfil_Construa.html` no navegador.
 
 ## 📸 Preview
 
-<img width="815" height="641" alt="preview" src="https://github.com/user-attachments/assets/9461a273-7a0c-4f00-b009-0e0ef35450ea" />
+<img width="815" height="641" alt="Preview" src="https://github.com/user-attachments/assets/d0c6bdbc-ab03-4883-953d-8c7aed49b27a" />
